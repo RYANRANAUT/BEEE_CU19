@@ -17,7 +17,7 @@ void loop()
     
   }
 
-  for(pin=8;pin>=5;pin--)
+  for(pin=7;pin>5;pin--)
   {
     
     digitalWrite(pin,HIGH);
